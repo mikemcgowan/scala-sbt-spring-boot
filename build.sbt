@@ -1,3 +1,5 @@
+name := "scala-sbt-spring-boot"
+
 scalaVersion := "2.12.6"
 
 libraryDependencies ++= Seq(
