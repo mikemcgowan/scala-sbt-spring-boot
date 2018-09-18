@@ -1,4 +1,4 @@
-package hello
+package mikemcgowan
 
 import org.springframework.boot.{CommandLineRunner, SpringApplication}
 import org.springframework.boot.autoconfigure.SpringBootApplication
